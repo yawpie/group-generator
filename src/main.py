@@ -1,9 +1,6 @@
 import os
 path = os.getcwd()
 
-# ! DO NOT FORGET TO PUT \\ IN FILENAME DURING OBJECT INITIALIZATION
-
-
 class Student:
     def addName(self, name):
         self.name = name

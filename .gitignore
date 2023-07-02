@@ -18,8 +18,11 @@ env/
 
 # IDE-specific files
 .idea/
-.vscode/
 *.pydevproject
+
+# I have to include this into the commit because inside of this is important for my current setup
+# if you think it is better to be ignored, then go ahead not include it
+# .vscode/ 
 
 # Logs and temporary files
 *.log
